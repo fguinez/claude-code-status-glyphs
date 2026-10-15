@@ -1,5 +1,11 @@
 # Claude Code — terminal glyph status indicators
 
+> [!IMPORTANT]
+> This repo is archived and no longer maintained. Its successor is
+> [claude-code-terminal-signals](https://github.com/fguinez/claude-code-terminal-signals),
+> which ships these same hooks plus a background-work glyph (⧗), a bar color
+> per session, and a title reset when a session ends.
+
 Shows the state of each Claude Code session as a glyph in the terminal tab title,
 so when you run several sessions you can tell at a glance which one needs you.
 
